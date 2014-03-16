@@ -6,8 +6,8 @@
         <title>$title$</title>
         <authors>$author$</authors>
         <owners>$author$</owners>
-        <licenseUrl>http://raw.github.com/eallegretta/serialization-providers/master/LICENSE.txt</licenseUrl>
-        <projectUrl>http://github.com/eallegretta/serialization-providers</projectUrl>
+        <licenseUrl>http://raw.github.com/eallegretta/lambda-activator/master/LICENSE.txt</licenseUrl>
+        <projectUrl>http://github.com/eallegretta/lambda-activator</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>$description$</description>
         <copyright>Copyright 2014</copyright>
