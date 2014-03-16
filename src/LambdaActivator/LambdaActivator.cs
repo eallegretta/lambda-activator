@@ -1,9 +1,8 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace LambdaActivator
+namespace System
 {
     /// <summary>
     /// Allows to create new instances of a specified type using a compiled Lambda expression
